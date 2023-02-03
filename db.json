@@ -50,5 +50,15 @@
         "password": "12345678",
         "accept": "confirm"
       }
+    ],
+    "feedback": [
+
+        {
+          "id": "1",
+          "category": "Rich Dad Poor Dad",
+          "title": "brathna84@gmail.com",
+          "message": "hi test"
+          }
+      
     ]
   }
